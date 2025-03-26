@@ -73,7 +73,7 @@ The component follows a mobile-first design approach. The base styles are optimi
 
 ## Credits
 
-- **Challenge by**: [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
+link of preview :  https://amirhosseinzakeri715.github.io/Qrcode-component/
 - **Coded by**: [Amir Hossein Zakeri](#)
 
 ## License
